@@ -14,7 +14,8 @@ Creates logos in SVG format
 Take from my github
 
 ## Usage
-answer the prompts in the terminal and it will make a simple logo based on your answers
+Use the app as shown in the following video:
+- https://drive.google.com/file/d/1wviur20xLXosrdms0X4YHqSxYveUfZPu/view
 
 ## Contributing
 send me a request
